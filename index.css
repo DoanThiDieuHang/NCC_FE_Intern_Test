@@ -93,14 +93,14 @@ nav{
     font-size: 16px;
     font-weight: 400;
     color:  #000000;
-    align-items: center;
+    text-align: center;
 }
 .container .box_text_2{
     margin-top: 250px;
     display: flex;
     width: 1510px;
     justify-content: center;
-
+    align-items: center;
 }
 .container .box_text_2 .box_element {
     background-color: #FFFFFF;
